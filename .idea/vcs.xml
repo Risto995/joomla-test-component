@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/cleverreach/integration-core" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/com_helloworld/admin/integration-core" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/com_helloworld/vendor/cleverreach/integration-core" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/test_plugin/vendor/cleverreach/integration-core" vcs="Git" />
+  </component>
+</project>

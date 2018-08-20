@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="library" version="3.8" method="upgrade">
+    <name>Cleverreach Integration Core</name>
+    <libraryname>cleverreach</libraryname>
+    <!-- The following elements are optional and free of formatting constraints -->
+    <creationDate>January 2018</creationDate>
+    <author>John Doe</author>
+    <authorEmail>john.doe@example.org</authorEmail>
+    <authorUrl>http://www.example.org</authorUrl>
+    <copyright>Copyright Info</copyright>
+    <license>License Info</license>
+
+
+    <files folder="integration-core">
+        <filename>phpunit.xml</filename>
+        <filename>composer.json</filename>
+        <filename>composer.lock</filename>
+	<filename>CHANGELOG.md</filename>
+        <folder>src</folder>
+        <folder>tests</folder>
+	<folder>generic_tests</folder>
+    </files>	
+</extension>

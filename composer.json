@@ -1,0 +1,12 @@
+{
+  "require": {
+    "cleverreach/integration-core": "1.8.0"
+  },
+  "repositories": [
+    {
+      "type": "vcs",
+      "no-api": true,
+      "url":  "git@github.com:cleverreach/logeecore.git"
+    }
+  ]
+}
